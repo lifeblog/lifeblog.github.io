@@ -20,7 +20,7 @@ header:
    pattern:  "pattern_concrete.jpg"
    caption: Close View of Kanchenjunga on the way to Phalut
    caption_url: 
-
+breadcrumb: true
 ---
 <ul class="clearing-thumbs small-block-grid-3" data-clearing="">
 
