@@ -1,4 +1,5 @@
 ---
+tawkto: true
 layout: page-fullwidth
 title: "Wonderful Typography"
 subheadline: "Reading Experience"
@@ -12,6 +13,7 @@ image:
     caption_url: "http://www.aisleone.net/"
 categories:
     - design
+
 ---
 <!--more-->
 

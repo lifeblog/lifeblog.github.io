@@ -237,4 +237,4 @@ google_analytics_tracking_id: UA-66093980-1
 #
 # used in _includes/footer_scripts
 
-# tawkto_embed_uri:
+tawkto_embed_uri: https://embed.tawk.to/55c660b7457fe6ab111ddc74/default

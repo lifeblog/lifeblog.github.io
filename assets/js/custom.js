@@ -1,7 +1,3 @@
-// Tooltip Init
-$(function() {
-    $("[data-toggle='tooltip']").tooltip();
-});
 
 // Contact Form Script
 $(function() {
@@ -14,24 +10,27 @@ $(function() {
             dataType: "json",
             success: function(data){
                 // Success message
-                $('#success').html("<div class='alert alert-success'>");
-                $('#success > .alert-success').html("<button type='button' class='close' data-dismiss='alert' aria-hidden='true'>&times;")
-                    .append("</button>");
-                $('#success > .alert-success')
+                $('#success').html("<div class='alert-box success'>");
+                $('#success > .alert-box')
                     .append("<strong>Your message has been sent. </strong>");
-                $('#success > .alert-success')
+                $('#success > .alert-box')
                     .append('</div>');
+
+                $('#success').show();
+
+                $('#success').delay(3000).fadeOut(1000);
 
                 //clear all fields
                 $('#contactForm').trigger("reset");
             },
             error: function(){
                 // Fail message
-                $('#success').html("<div class='alert alert-danger'>");
-                $('#success > .alert-danger').html("<button type='button' class='close' data-dismiss='alert' aria-hidden='true'>&times;")
-                    .append("</button>");
-                $('#success > .alert-danger').append("<strong>Sorry it seems that my mail server is not responding. Please try again later!");
-                $('#success > .alert-danger').append('</div>');
+                $('#success').html("<div class='alert-box alert radius'>");
+                $('#success > .alert-box').append("<strong>Sorry it seems that my mail server is not responding. Please try again later!");
+                $('#success > .alert-box').append('</div>');
+                $('#success').show();
+
+                $('#success').delay(3000).fadeOut(1000);
                 //clear all fields
                 $('#contactForm').trigger("reset");
             }
@@ -45,6 +44,9 @@ $('#name').focus(function() {
     $('#success').html('');
 });
 
+//function closeMessage(){
+//    $('#closeMessageButton').parent().html('<div id="success"></div>');
+//}
 
 // Floating label headings for the contact form
 $(function() {

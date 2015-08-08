@@ -24,15 +24,17 @@ permalink: "/contact/"
     <div class="row control-group">
         <div class="form-group col-xs-12 floating-label-form-group controls">
             <label>Message</label>
-            <textarea rows="5" class="form-control" placeholder="Message" name="message" required></textarea>
+            <textarea rows="5" class="form-control" placeholder="Message" name="message" required autocomplete="off"></textarea>
         </div>
     </div>
     <input type="text" name="_gotcha" style="display:none"/>
     <br>
-    <div id="success"></div>
+    
     <div class="row">
         <div class="form-group col-xs-12">
             <button type="submit" class="btn btn-default" value="Send">Send</button>
         </div>
     </div>
+    
+    <div id="success"></div>
 </form>
