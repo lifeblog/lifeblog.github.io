@@ -2,16 +2,37 @@
 layout: page
 title: "Contact"
 meta_title: "Contact and use our contact form"
-subheadline: "Wufoo-powered contact forms"
-teaser: "Get in touch with me? Use the contact form."
+subheadline: "Have questions? We have answers."
+#teaser: "Get in touch with us? Use the contact form."
 permalink: "/contact/"
 ---
-If you need a fabulous contact form for your website, I suggest you use [Wufoo][1]. You can use three forms for free, you get no spam and if you get more than 100 entries you have to pay.
 
-<div class="panel">
-<!--iframe width="100%" height="650" frameborder="0" scrolling="no" src="https://phlowmedia.wufoo.com/embed/z7x3k1/"></iframe-->
-</div>
-
-
-
- [1]: http://www.wufoo.com/
+<p>Want to get in touch with us? Fill out the form below to send us a message and we will get back to you</p>
+<form name="sentMessage" id="contactForm">
+    <div class="row control-group">
+        <div class="form-group col-xs-12 floating-label-form-group controls">
+            <label>Name</label>
+            <input type="text" class="form-control" placeholder="Name" name="name" required>
+        </div>
+    </div>
+    <div class="row control-group">
+        <div class="form-group col-xs-12 floating-label-form-group controls">
+            <label>Email Address</label>
+            <input type="email" class="form-control" placeholder="Email Address" name="_replyto" required>
+        </div>
+    </div>
+    <div class="row control-group">
+        <div class="form-group col-xs-12 floating-label-form-group controls">
+            <label>Message</label>
+            <textarea rows="5" class="form-control" placeholder="Message" name="message" required></textarea>
+        </div>
+    </div>
+    <input type="text" name="_gotcha" style="display:none"/>
+    <br>
+    <div id="success"></div>
+    <div class="row">
+        <div class="form-group col-xs-12">
+            <button type="submit" class="btn btn-default" value="Send">Send</button>
+        </div>
+    </div>
+</form>
