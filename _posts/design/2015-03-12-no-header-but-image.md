@@ -13,7 +13,7 @@ header: no
 image:
     title: unsplash_eagle.jpg
     caption: This is a caption for the header image with link
-    caption_url: https://unsplash.com/
+    caption_url: http://unsplash.com/
 ---
 First turn of the header with `header: no`. Then add an image to with the following code. The caption is optional.
 <!--more-->
@@ -23,7 +23,7 @@ header: no
 image:
     title: unsplash_eagle.jpg
     caption: This is a caption for the header image with link
-    caption_url: https://unsplash.com/
+    caption_url: http://unsplash.com/
 ~~~
 
 

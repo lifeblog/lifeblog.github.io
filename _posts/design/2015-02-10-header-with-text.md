@@ -15,7 +15,7 @@ header:
 #    pattern: pattern_concrete.jpg
     image_fullwidth: unsplash_brooklyn-bridge_header.jpg
     caption: This is a caption for the header image with link
-    caption_url: https://unsplash.com/
+    caption_url: http://unsplash.com/
 ---
 <!--more-->
 
@@ -26,7 +26,7 @@ header:
     title: header with text
     image_fullwidth: unsplash_brooklyn-bridge_header.jpg
     caption: This is a caption for the header image with link
-    caption_url: https://unsplash.com/
+    caption_url: http://unsplash.com/
 ~~~
 
 ### All Header-Styles 

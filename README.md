@@ -1,5 +1,5 @@
 
-[![Start Video](https://github.com/Phlow/feeling-responsive/blob/gh-pages/images/video-feeling-responsive-1280x720.jpg)](https://www.youtube.com/embed/3b5zCFSmVvU)
+[![Start Video](http://github.com/Phlow/feeling-responsive/blob/gh-pages/images/video-feeling-responsive-1280x720.jpg)](http://www.youtube.com/embed/3b5zCFSmVvU)
 
 ## A Responsive Jekyll Theme: *Feeling Responsive*
 
@@ -29,7 +29,7 @@ Feeling Responsive is heavily customizable.
 
 Click the image to [watch the YouTube-Video-Tutorial][4].
 
-[![Start Video](https://github.com/Phlow/feeling-responsive/blob/gh-pages/images/video-feeling-responsive-tutorial-frontpage.jpg)](https://www.youtube.com/watch?v=rLS-BEvlEyY)
+[![Start Video](http://github.com/Phlow/feeling-responsive/blob/gh-pages/images/video-feeling-responsive-tutorial-frontpage.jpg)](http://www.youtube.com/watch?v=rLS-BEvlEyY)
 
 
 
@@ -39,9 +39,9 @@ Click the image to [watch the YouTube-Video-Tutorial][4].
 
 
  [1]: http://phlow.github.io/feeling-responsive/documentation/
- [2]: https://github.com/Phlow/feeling-responsive/blob/gh-pages/LICENSE
+ [2]: http://github.com/Phlow/feeling-responsive/blob/gh-pages/LICENSE
  [3]: http://phlow.github.io/feeling-responsive/info/
- [4]: https://www.youtube.com/watch?v=rLS-BEvlEyY
+ [4]: http://www.youtube.com/watch?v=rLS-BEvlEyY
  [5]: #
  [6]: #
  [7]: #

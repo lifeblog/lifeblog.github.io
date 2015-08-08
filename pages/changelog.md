@@ -29,7 +29,7 @@ permalink: "/changelog/"
 2015-03-25  // Video
 :   Made a new [video tutorial](https://www.youtube.com/embed/rLS-BEvlEyY)
 
-<div class="flex-video"><iframe width="1280" height="720" src="https://www.youtube.com/embed/rLS-BEvlEyY" frameborder="0" allowfullscreen></iframe></div><!-- /.flex-video -->
+<div class="flex-video"><!--iframe width="1280" height="720" src="https://www.youtube.com/embed/rLS-BEvlEyY" frameborder="0" allowfullscreen></iframe--></div><!-- /.flex-video -->
 
 2015-03-02 // Version 1.1
 :   Added [Foundation Reveal](http://foundation.zurb.com/docs/components/reveal.html) to the mix to show videos and content in a popup window. <a href="#" data-reveal-id="videoModal">Try it out right know :)</a>
@@ -37,7 +37,7 @@ permalink: "/changelog/"
 2015-02-26 // Version 1.0
 :   OK. Let's try it. Here is *Feeling Responsive* Version 1.0, with a shiny video.
 
-<div class="flex-video"><iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe></div><!-- /.flex-video -->
+<div class="flex-video"><!--iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe--></div><!-- /.flex-video -->
 
 
 2015-02-25 // Version 0.99.1
@@ -102,12 +102,12 @@ permalink: "/changelog/"
 
 
 
-<div id="videoModal" class="reveal-modal large" data-reveal="">
+<!--div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">
     <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
   </div>
   <a class="close-reveal-modal">&#215;</a>
-</div>
+</div-->
 
 
  [1]: {{ site.url }}/blog/
