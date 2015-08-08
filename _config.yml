@@ -8,28 +8,30 @@
 #                                                 /____/        
 #
 # Title of your website
-title: "Feeling Responsive"
+title: "Life Blog"
 
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: "A Flexible Theme for Jekyll"
+slogan: "Repository of Tech, History, Pragmatism and Future"
 
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: "»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette."
+#description: "»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette."
+
+description: "Life blog is an idea to collect and showcase deeply researched information and share it with larger audience. Broad topics include Technology, Space, History, Religion."
 
 # Main author of the website
 # See > authors.yml
-author: phlow
+author: bhuvan
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://phlow.github.io/feeling-responsive'
+url: 'https://lifeblog.io'
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
-improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
+improve_content: https://github.com/lifeblog/lifeblog.github.io/edit/
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash at the end.
@@ -37,7 +39,7 @@ improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://phlow.github.io/feeling-responsive/images/'
+urlimg: 'https://lifeblog.github.io/images/'
 
 
 # Logo size is 600x80 pixels
@@ -101,7 +103,7 @@ defaults:
       show_meta: false 	# Hide metadata for all pages
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for pages
+      author: bhuvan     # Default author for pages
   -
     scope:
       path: ""
@@ -110,7 +112,7 @@ defaults:
       show_meta: true   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for posts
+      author: bhuvan     # Default author for posts
 
 
 
@@ -194,7 +196,7 @@ og_description:                     "Feeling Responsive is built on the fabulous
 #
 # used in _includes/comments
 
-disqus_shortname: feelingresponsive
+disqus_shortname: bhuvanrawal
 
 
 #      _____
@@ -218,7 +220,7 @@ sass:
 #
 # used in _includes/footer_scripts
 
-google_analytics_tracking_id: UA-60112281-1
+google_analytics_tracking_id: UA-58286706-1
 
 
 
