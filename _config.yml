@@ -39,7 +39,7 @@ improve_content: https://github.com/lifeblog/lifeblog.github.io/edit/
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://lifeblog.github.io/images/'
+urlimg: 'https://lifeblog.io/images/'
 
 
 # Logo size is 600x80 pixels
@@ -220,7 +220,7 @@ sass:
 #
 # used in _includes/footer_scripts
 
-google_analytics_tracking_id: UA-58286706-1
+google_analytics_tracking_id: UA-66093980-1
 
 
 
