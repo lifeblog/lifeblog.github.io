@@ -48,6 +48,7 @@
 
 {% elsif page.header.image_fullwidth %}
 
+{% if !page.dontshowheader %}
 <div id="masthead">
 	<div class="row">
 		<div class="small-12 columns">
@@ -57,6 +58,12 @@
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
 </div><!-- /#masthead -->
+
+{% else %}
+
+	<div id="masthead"></div><!-- /#masthead -->
+
+{% endif%}
 
 {% if page.breadcrumb == true %}
 {% include breadcrumb %}
