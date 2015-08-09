@@ -21,11 +21,6 @@
   - title: "Photos"
     url:   "/photos/"
 
-- title: "42"
-  url: "/42/"
-  side: left
-
-
 - title: Blog
   url: "/blog/"
   side: left
@@ -35,7 +30,7 @@
 
 
 - title: About
-  url: "/about/"
+  url: "/info/"
   side: left
   dropdown:
   - title: "Bhuvan Rawal"
