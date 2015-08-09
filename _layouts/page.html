@@ -39,6 +39,10 @@ format: post
 			{{ content }}
 			</span>
 
+			{% if page.share == true %}
+			{% include share %}
+			{% endif %}
+
 			{% if page.show_meta == true %}
 			{% include meta_information %}
 			{% endif %}
@@ -46,6 +50,7 @@ format: post
 			{% if page.comments == true %}
 			{% include comments %}
 			{% endif %}
+
 		</article>
 	</div><!-- /.medium-8.columns -->
 
