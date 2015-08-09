@@ -16,6 +16,8 @@ comments: true
 tawkto: true
 image:
    thumb: "unsplash_7_thumb.jpg"
+   homepage: roopkund_homepage.jpg
+   caption: Acclimatization walk
 header:
    image:  "phalut_trek_header.JPG"
    pattern:  "pattern_concrete.jpg"

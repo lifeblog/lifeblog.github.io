@@ -15,6 +15,8 @@ comments: true
 tawkto: true  
 image:
    thumb: "unsplash_7_thumb.jpg"
+   homepage: stok_kangri_homepage.jpg
+   caption: Beautiful view from Advanced base camp
 header:
    image:  "phalut_trek_header.JPG"
    pattern:  "pattern_concrete.jpg"

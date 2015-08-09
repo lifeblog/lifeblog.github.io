@@ -15,6 +15,8 @@ comments: true
 tawkto: true
 image:
    thumb: "unsplash_7_thumb.jpg"
+   homepage: dalhousie_homepage_image.jpg
+   caption: Early Morning after heavy snowfall
 header:
    image:  "phalut_trek_header.JPG"
    pattern:  "pattern_concrete.jpg"

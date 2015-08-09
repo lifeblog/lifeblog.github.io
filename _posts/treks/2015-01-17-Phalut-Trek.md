@@ -13,14 +13,16 @@ tags:
     - treks
 comments: true
 tawkto: true
-image:
-   thumb: "unsplash_7_thumb.jpg"
    
 header:
-   image:  "phalut_trek_header.JPG"
+   image_fullwidth:  "phalut_trek_header.JPG"
    pattern:  "pattern_concrete.jpg"
    caption: Close View of Kanchenjunga on the way to Phalut
-   caption_url: 
+   
+image:
+    homepage: "phalut_trek_header.JPG"
+    caption: Trek to Sandakhpu - Phalut
+
 breadcrumb: true
 ---
 

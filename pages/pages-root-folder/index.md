@@ -7,6 +7,9 @@
 layout: frontpage
 header:
   image_fullwidth: header_home.jpg
+  title: Life Blog
+  caption: Technology Trekking Pragmatism
+  caption_url: http://lifeblog.io
 widget1:
   title: "Blog & Portfolio"
   url: 'http://lifeblog.io/blog/'

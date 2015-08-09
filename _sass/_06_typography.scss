@@ -151,6 +151,25 @@ figcaption a:hover,
     text-align: right;
 }
 
+.masthead-caption-home {
+    color: $grey-10;
+    font-family: $font-family-sans-serif;
+    font-size: rem-calc(13);
+    padding-top: rem-calc(2);
+}
+
+.masthead-caption-home a {
+    border-bottom: 1px dotted $grey-4;
+    color: $grey-10;
+}
+
+.masthead-caption-home {
+    color: $primary-color;
+}
+.masthead-caption-home {
+    padding-right: 10px;
+}
+
 
 
 /* Tables
