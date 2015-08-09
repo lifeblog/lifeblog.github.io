@@ -5,7 +5,8 @@ subheadline: A walk to highest trekkable peak in India
 date:       2015-01-10 01:39:29
 teaser: One of the most challenging treks in India, both in terms of altitude and challenges. Summit day is unforgiving.
 summary:    Stok Kangri Expedition 2013
-categories: 
+categories:
+    - gallery
     - photos
     - trekking
 tags:

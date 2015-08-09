@@ -1,14 +1,13 @@
 ---
 layout: page
 show_meta: false
-title: "Style your content!"
-subheadline: "Layouts of Feeling Responsive"
+title: "A good snapshot keeps a moment from running away!"
 header:
    image_fullwidth: "header_unsplash_5.jpg"
-permalink: "/design/"
+permalink: "/gallery/"
 ---
 <ul>
-    {% for post in site.categories.design %}
+    {% for post in site.categories.gallery %}
     <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
 </ul>
