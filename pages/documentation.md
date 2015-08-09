@@ -101,9 +101,9 @@ By default comments are turned off. You can customize the default behaviour in `
 
 With foundation responsive videos are easy. [More ›](http://foundation.zurb.com/docs/components/flex_video.html)
 
-<!--div class="flex-video">
+<div class="flex-video">
         <iframe width="1280" height="720" src="//www.youtube.com/embed/WoHxoz_0ykI" frameborder="0" allowfullscreen></iframe>
-</div-->
+</div>
 
 ### Code to use for flexible videos
 

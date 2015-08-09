@@ -18,7 +18,7 @@ image:
    homepage: dalhousie_homepage_image.jpg
    caption: Early Morning after heavy snowfall
 header:
-   image:  "phalut_trek_header.JPG"
+   image:  "dalhousie_homepage_image.jpg"
    pattern:  "pattern_concrete.jpg"
    caption: Close View of Kanchenjunga on the way to Phalut
    caption_url: 

@@ -19,7 +19,7 @@ image:
    homepage: roopkund_homepage.jpg
    caption: Acclimatization walk
 header:
-   image:  "phalut_trek_header.JPG"
+   image:  "roopkund_homepage.jpg"
    pattern:  "pattern_concrete.jpg"
    caption: Close View of Kanchenjunga on the way to Phalut
    caption_url: 
