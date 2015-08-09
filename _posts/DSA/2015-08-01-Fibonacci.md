@@ -4,14 +4,19 @@ layout: page-fullwidth
 title: Fibonacci Series"
 subheadline: "To find the fibonacci series of a number"
 meta_teaser: "Fibonaccii series can be generated using recursion and dynamic programming "
-teaser: "<em>Fibonacci Series</em> uses <a href='https://www.google.com/fonts/specimen/Volkhov'>Volkhov</a> for headlines, <a href='https://www.google.com/fonts/specimen/Lato'>Lato</a> for everything else and if you are in need to show some code, it will be in <a href='http://www.microsoft.com/typography/fonts/family.aspx?FID=18'>Lucida Console</a> or <a href='http://en.wikipedia.org/wiki/Monaco_(typeface)'>Monaco</a>."
 header: no
+
+categories:
+    - technology
+    - dsa
+tags:
+    - technology
+    - dsa
 image:
     thumb:  homepage_typography_thumb.jpg
     caption: Image by Antonio
     caption_url: "http://www.aisleone.net/"
-categories:
-    - design
+
 
 ---
 <!--more-->
@@ -30,7 +35,7 @@ categories:
 
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 
-## Lato – Fibonacci Series - Recursion
+##  Fibonacci Series - Recursion
 
 We know what Fibonacci Series is :
 1 1 2 3 5 8 13 ……
