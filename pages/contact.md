@@ -1,5 +1,6 @@
 ---
 layout: page
+sidebar: right
 title: "Contact"
 tawkto: true
 meta_title: "Contact and use our contact form"
