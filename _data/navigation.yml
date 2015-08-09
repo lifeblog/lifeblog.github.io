@@ -10,6 +10,8 @@
   url: "/design/"
   side: left
   dropdown:
+  - title: "Photos"
+    url:   "/photos/"
   - title: "Grid & Colors"
     url: "/design/grid/"
   - title: "Typography"
