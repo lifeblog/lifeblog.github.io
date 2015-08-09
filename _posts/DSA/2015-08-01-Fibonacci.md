@@ -1,7 +1,7 @@
 ---
 tawkto: true
 layout: page-fullwidth
-title: Fibonacci Series"
+title: Fibonacci Series-Recursion
 subheadline: "To find the fibonacci series of a number"
 meta_teaser: "Fibonaccii series can be generated using recursion and dynamic programming "
 header: no
@@ -35,7 +35,7 @@ image:
 
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 
-##  Fibonacci Series - Recursion
+
 
 We know what Fibonacci Series is :
 1 1 2 3 5 8 13 ……
