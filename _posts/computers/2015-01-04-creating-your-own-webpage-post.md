@@ -11,14 +11,14 @@ breadcrumb: true
 share: true
 comments: true
 image:
-    title: "unsplash_1.jpg"
-    caption: Unsplash.com
-    caption_url: http://unsplash.com
+    thumb: "octojekyll.png"
+    caption: Jekyll - Github
+    caption_url: http://jekyllrb.com
 header:
-   image:  "roopkund_homepage.jpg"
+   image:  "github-pages-jekyll.png"
    pattern:  "pattern_concrete.jpg"
-   caption: Close View of Kanchenjunga on the way to Phalut
-   caption_url:
+   caption: Jekyll Logo
+   caption_url: 
 author: bhuvan    
 tawkto: true
 
