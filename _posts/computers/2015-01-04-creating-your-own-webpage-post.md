@@ -11,7 +11,7 @@ breadcrumb: true
 share: true
 comments: true
 image:
-    title: "octojekyll.png"
+    thumb: "octojekyll.png"
     caption: Jekyll - Github
     caption_url: http://jekyllrb.com
 header:
