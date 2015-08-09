@@ -3,7 +3,7 @@ layout: page
 title: "Version Control with Git-Introduction"
 subheadline: Technology
 date: 2015-07-26T02:52:58+05:30
-categories: [blog,computers,linux]
+categories: [blog,computers,linux,java]
 teaser: Learn the most loved version control system on the planet
 breadcrumb: true
 share: true

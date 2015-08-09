@@ -4,7 +4,7 @@ title:      Boot windows from external USB hard drive for UEFI motherboards
 date:       2015-01-14 23:21:29
 summary:    Booting windows from an external hard disk drive of your laptop if you dont want to install it in your primary laptop hard disk.
 description:    Booting windows from an external hard disk drive of your laptop if you dont want to install it in your primary laptop hard disk.
-categories: [technology, computers, technology, hack]
+categories: [technology, computers, technology, hack,java]
 tags:   [windows]
 comments:   true
 share:  true
