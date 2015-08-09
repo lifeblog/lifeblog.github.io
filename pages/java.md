@@ -1,7 +1,7 @@
 ---
 layout: page
 show_meta: false
-title: " Techniques for JAVA developers"
+title: " Tricks for the JAVA trade"
 header:
    image_fullwidth: "header_unsplash_5.jpg"
 permalink: "/technology/java/"
