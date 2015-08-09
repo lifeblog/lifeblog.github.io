@@ -5,7 +5,8 @@ subheadline: Trek to Roopkund in Uttarakhand
 date:       2015-01-10 01:39:29
 teaser: One of the most beautiful treks in India. A moderately difficult one, generally done in mid may to catch snow.
 summary:    Roopkund Trek
-categories: 
+categories:
+    - gallery
     - photos
     - trekking
 tags:

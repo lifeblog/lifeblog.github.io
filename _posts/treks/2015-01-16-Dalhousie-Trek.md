@@ -5,7 +5,8 @@ subheadline: Picturesque trek to Khajjiar. Visited Golden temple and Pak border 
 date:       2015-01-10 01:39:29
 summary:    Trek from Dalhousie to Khajjiar
 teaser: Trek starting from Dalhousie to Khajjiar in Himachal Pradesh, box of surprises. 
-categories: 
+categories:
+    - gallery
     - photos
     - trekking
 tags:

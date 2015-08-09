@@ -2,39 +2,24 @@
   url: "/"
   side: left
 
-- title: Getting Started
-  url: "/getting-started/"
+- title: Technology
+  url: "/technology/"
   side: left
+  dropdown:
+    - title: "Java"
+      url:   "/technology/java/"
+    - title: "Data Structures and algorithms"
+      url:   "/technology/dsa/"
 
-- title: "Templates"
-  url: "/design/"
+- title: "Gallery"
+  url: "/gallery/"
   side: left
   dropdown:
   - title: "Photos"
     url:   "/photos/"
-  - title: "Grid & Colors"
-    url: "/design/grid/"
-  - title: "Typography"
-    url: "/design/typography/"
-  - title: "Page/Post"
-    url: "/design/page/"
-  - title: "Post-Left-Sidebar"
-    url: "/design/post-left-sidebar/"
-  - title: "Post-Right-Sidebar"
-    url: "/design/post-right-sidebar/"
-  - title: "Page Full-Width"
-    url: "/design/page-fullwidth/"
-  - title: "Blog-Page"
-    url: "/blog/"
-  - title: "Video"
-    url: "/design/video/"
-  - title: "Gallery"
-    url: "/design/gallery/"
-  - title: "Portfolio"
-    url: "/design/portfolio/"
 
-- title: "Header Styles"
-  url: "/headers/"
+- title: "42"
+  url: "/42/"
   side: left
   dropdown:
   - title: "Header with Full-Width-Image"
@@ -52,21 +37,23 @@
   - title: "No Header but Image"
     url: "/design/no-header-but-image/"
 
-- title: Documentation
-  url: "/documentation/"
-  side: left
-  dropdown:
-  - title: "Changelog"
-    url: "/changelog/"
-  - title: "Roadmap"
-    url: "/roadmap/"
-
 - title: Blog
   url: "/blog/"
   side: left
   dropdown:
   - title: "Blog Archive"
     url: "/blog/archive/"
+
+
+- title: About
+  url: "/about/"
+  side: left
+  dropdown:
+  - title: "Bhuvan Rawal"
+    url: "/bhuvanrawal/"
+  - title: "Aakhila Shaheen"
+    url: "/aakhilashaheen/"
+
 
 - title: "Search"
   url: "/search/"
