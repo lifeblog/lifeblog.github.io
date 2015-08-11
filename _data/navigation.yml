@@ -18,8 +18,8 @@
   url: "/gallery/"
   side: left
   dropdown:
-  - title: "Photos"
-    url:   "/photos/"
+  - title: "Treks"
+    url: "/gallery/trekking/"
 
 - title: Blog
   url: "/blog/"

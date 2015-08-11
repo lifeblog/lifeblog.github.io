@@ -7,10 +7,8 @@ summary:    Trek from Dalhousie to Khajjiar
 teaser: Trek starting from Dalhousie to Khajjiar in Himachal Pradesh, box of surprises. 
 categories:
     - gallery
-    - photos
     - trekking
 tags:
-    - photos
     - treks    
 comments: true
 tawkto: true

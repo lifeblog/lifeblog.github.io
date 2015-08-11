@@ -7,10 +7,8 @@ teaser: One of the most challenging treks in India, both in terms of altitude an
 summary:    Stok Kangri Expedition 2013
 categories:
     - gallery
-    - photos
     - trekking
 tags:
-    - photos
     - treks    
 comments: true  
 tawkto: true  

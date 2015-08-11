@@ -4,6 +4,8 @@ show_meta: false
 title: "Interesting data structures and alorithms"
 header:
    image_fullwidth: "header_unsplash_5.jpg"
+categories:
+    - technology
 permalink: "/technology/dsa/"
 ---
 <ul>

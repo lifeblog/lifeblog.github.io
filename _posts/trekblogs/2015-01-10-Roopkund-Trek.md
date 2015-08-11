@@ -7,10 +7,8 @@ teaser: One of the most beautiful treks in India. A moderately difficult one, ge
 summary:    Roopkund Trek
 categories:
     - gallery
-    - photos
     - trekking
 tags:
-    - photos
     - treks    
 imagefeature: trek_background.jpg
 comments: true

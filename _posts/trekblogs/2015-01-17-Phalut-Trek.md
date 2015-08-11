@@ -6,11 +6,8 @@ date:       2015-01-16 01:39:29
 teaser: One of the most picturesque treks in West Bengal, offers close view of Mt. Everest, Kanchenjunga, Makalu, Annapurna. 
 categories:
     - gallery
-    - photos
     - trekking
-
 tags:
-    - photos
     - treks
 comments: true
 tawkto: true

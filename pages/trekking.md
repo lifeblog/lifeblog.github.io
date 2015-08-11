@@ -5,7 +5,7 @@ title: "Life Blog Pictures!"
 subheadline: "Life, Universe, Everything!"
 header:
    image_fullwidth: "header_unsplash_5.jpg"
-permalink: "/gallery/photos/trekking/"
+permalink: "/gallery/trekking/"
 ---
 <ul>
     {% for post in site.categories.trekking %}
