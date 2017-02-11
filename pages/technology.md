@@ -10,5 +10,4 @@ permalink: "/technology/"
 <ul>
    <li><a href = "/technology/dsa" > Data Structures And Algorithms </a></li>
    <li><a href = "/technology/java"> Java </a></li>
-   <li><a href = "/technology/designpatterns">Design Patterns </a></li>
 </ul>
