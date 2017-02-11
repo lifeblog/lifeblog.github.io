@@ -10,9 +10,6 @@
       url:   "/technology/java/"
     - title: "Data Structures and algorithms"
       url:   "/technology/dsa/"
-    - title: "Design Patterns"
-      url:   "/technology/designpattern/"
-
 
 - title: "Gallery"
   url: "/gallery/"
