@@ -22,7 +22,7 @@ description: "Life blog is an idea to collect and showcase deeply researched inf
 
 # Main author of the website
 # See > authors.yml
-author: bhuvan
+author: shaheen
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
@@ -103,7 +103,7 @@ defaults:
       show_meta: false 	# Hide metadata for all pages
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: bhuvan     # Default author for pages
+      author: shaheen     # Default author for pages
   -
     scope:
       path: ""
@@ -112,7 +112,7 @@ defaults:
       show_meta: true   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: bhuvan     # Default author for posts
+      author: shaheen     # Default author for posts
 
 
 
